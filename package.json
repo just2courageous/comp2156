@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "echo \"Travis build ok\""
+    "test": "echo \"Warning: No tests created yet.\""
   }
 }
